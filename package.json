@@ -1,6 +1,7 @@
 {
   "name": "photosnap",
   "version": "0.1.0",
+  "homepage": "http://shadow16305.github.io/Photosnap",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
